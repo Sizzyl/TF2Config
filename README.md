@@ -1,4 +1,5 @@
 As any TF2 config is, Sizzyl's config is a mix of many seperate mods brought together.
+To get the needed file for install, simply click over to the "Releases" section on GitHub.
 
 Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 
