@@ -21,3 +21,5 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 
 
 Sizzyl's Custom Intro Will not be included here (for the time being), you'll have to add it from the gamebannana download
+
+I have gotten express permission to include DarHud in this mashup: https://i.imgur.com/EEIjFNQ.png
