@@ -7,7 +7,6 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 
 - Mastercomfig: https://mastercomfig.com/
 - DarHud: https://gamebanana.com/mods/463048
-- Sizzyl's Custom Intro: https://gamebanana.com/mods/476018
 - Pizza Tower "Funky"/"Taunt" SFX: https://www.youtube.com/watch?v=gWr4xRD7TUc
 - Sniper FP Animation Overhaul: https://gamebanana.com/mods/206371
 - Soldier FP Animation Overhaul: https://gamebanana.com/mods/206396
@@ -22,7 +21,10 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 - Windows7 Disguise Kit: https://gamebanana.com/mods/199064
 - Vaccinator Redux: https://gamebanana.com/mods/478055
 
-
-Sizzyl's Custom Intro Will not be included here (for the time being), you'll have to add it from the gamebannana download
+Mods you need to install manually (they are too large for github to store)
+(drag and drop into the 'custom' folder)
+- Updated Main Menu Characters: https://gamebanana.com/mods/473418
+(create a folder in 'tf' called 'media' and drag and drop)
+- Sizzyl's Custom Intro: https://gamebanana.com/mods/476018
 
 I have gotten express permission to include DarHud in this mashup: https://i.imgur.com/EEIjFNQ.png
