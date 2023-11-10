@@ -19,6 +19,8 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 - Pyro FP Animation Overhaul: https://youtu.be/JSnc9l5uPbY
 - Spy FP Animation Overhaul: https://gamebanana.com/mods/307980
 - Better Kill Icons: https://gamebanana.com/mods/406361
+- Windows7 Disguise Kit: https://gamebanana.com/mods/199064
+- Vaccinator Redux: https://gamebanana.com/mods/478055
 
 
 Sizzyl's Custom Intro Will not be included here (for the time being), you'll have to add it from the gamebannana download
