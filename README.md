@@ -1,6 +1,9 @@
 As any TF2 config is, Sizzyl's config is a mix of many seperate mods brought together.
 To get the needed file for install, simply click over to the "Releases" section on GitHub.
 
+launch options (2k): -nohltv -particles 1 -precachefontchars -windowed -noborder -w 2560 -h 1440
+launch options (1080p): -nohltv -particles 1 -precachefontchars -windowed -noborder -w 1920 -h 1080
+
 Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 
 ^if you're reading this, what you just downloaded is NOT the version showcased in this video, but the install process is the same
