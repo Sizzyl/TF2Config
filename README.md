@@ -18,6 +18,7 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 - Pyro FP Animation Overhaul: https://youtu.be/JSnc9l5uPbY
 - Spy FP Animation Overhaul: https://gamebanana.com/mods/307980
 - Better Kill Icons: https://gamebanana.com/mods/406361
+- Gangster SMG: https://gamebanana.com/mods/206363
 
 Mods you need to install manually (they are too large for github to store)
 (drag and drop into the 'custom' folder)
