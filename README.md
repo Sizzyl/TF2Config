@@ -22,6 +22,7 @@ Here's a video showcasing it/how to install it: https://youtu.be/O51l3z3UnZk
 - Spy FP Animation Overhaul: https://gamebanana.com/mods/307980
 - Better Kill Icons: https://gamebanana.com/mods/406361
 - Gangster SMG: https://gamebanana.com/mods/206363
+- Caption Files From ToonHud: https://toonhud.com/user/sizzyl/theme/KZIKEDJS/
 
 Mods you need to install manually (they are too large for github to store)
 (drag and drop into the 'custom' folder)
